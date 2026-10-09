@@ -1,2 +1,3 @@
-# primeiro-reposit-rio-aula-senai-tshow
+# primeiro-repositório-aula-senai-tshow
 meu primeiro repositório com a turma de SEXTA-FEIRA
+Miguel Nunes
