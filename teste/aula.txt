@@ -1,1 +1,6 @@
-
+• Impacto da Inteligência Artificial no Setor: O avanço rápido de ferramentas de IA generativa e agentes autônomos está pressionando os orçamentos e as ações de empresas de software tradicionais, com investidores reavaliando modelos de assinatura e plataformas de nuvem.
+• Morte de Margaret Hamilton: Morreu aos 90 anos a renomada programadora que liderou a equipe do MIT responsável pelo desenvolvimento do software de bordo da missão Apollo 11, fundamental para o pouso na Lua em 1969.
+• Segurança de IA pela Nvidia: A Nvidia lançou uma ferramenta de código aberto integrada ao hardware (chamada Nvidia Centry) para monitorar e desativar agentes de inteligência artificial caso percam o controle ou realizem ações não previstas.
+• Bug em Software na Fórmula 1: A FIA concluiu que um bug de software foi a causa dos problemas de perda de potência e pane elétrica em vários carros durante a volta de formação de uma corrida recente na Malásia.
+• Atualização do PlayStation Portal: A Sony disponibilizou a atualização de software versão 7.3.0 para o dispositivo PlayStation Portal.
+Veja como a expansão da Inteligência Artificial está impactando e transformando as ações e os modelos de negócios das empresas de software tradicionais
